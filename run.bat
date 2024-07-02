@@ -5,4 +5,4 @@ rem pytest -s -v -m "regression" --html=Reports\report.html TestCases\ --browser
 
 
 
-pause
+
